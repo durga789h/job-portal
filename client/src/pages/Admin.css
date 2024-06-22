@@ -1,0 +1,26 @@
+table,tr,td,th{
+    border: 2px solid black;
+    text-align: center;
+
+}
+th{
+    padding: 10px;
+    text-align: center;
+}
+/*button signup */
+.tbutton{
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+@media screen and (max-width: 800px) {
+    .down45{
+       margin-bottom: 15px;
+        
+    }
+
+    /*Adminuser.jsx css of table*/
+  
+}
